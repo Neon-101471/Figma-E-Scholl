@@ -1,0 +1,146 @@
+main{
+    font-family: georgia;
+}
+#nav-area{
+    margin-top: 25px;
+}
+section{
+    padding: 10px 5px 50px 5px;
+}
+.background-0{
+    background-color: rgb(247, 240, 238);
+}
+.background-1{
+    background-color: #ebebeb;
+}
+.logo-img{
+    height: 29px;
+    width: 118.07142639160156px;
+    left: 292px;
+    top: 45px;
+    border-radius: nullpx;  
+}
+.btn-sign-in{
+    color: white;
+    border-radius: 33px;
+}
+.color{
+    background-color: #21B573;
+}
+.color-font{
+    color: #21B573;
+}
+.are-you-ready{
+    color: #FD511A;
+}
+.get-started{
+    background-color: #21B573;
+    height: 35px;
+    width: 130px;
+    border-radius: 33px;
+    padding: auto;
+    justify-content: center;
+}
+.illustration-img{
+    max-width: 500px;
+    max-height: 280px;
+}
+.background-2{
+    background-color: #f8eded;
+}
+.second-row{
+    justify-content: center;
+}
+.second-row img{
+    height: 150px;
+    width: 120px;
+    margin: auto;
+    padding: 25px;
+}
+.width-1200{
+    max-width: 1200px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.width-1200 p{
+    font-size: 25px;
+    padding: 5px;
+    margin: 5px;
+}
+.width-1200 span{
+    font-size: 20px;
+}
+.box-shawdo{
+    box-shadow: 10px 10px 25px lightgray;
+    border-radius: 5px;
+    padding-bottom: 15px;
+}
+#online-courses{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    color: Teal;
+}
+.background-3{
+    background-color: rgb(235, 230, 226);
+}
+.third-row img{
+    max-height: 200px;
+    max-height: 250px;
+    padding: 20px 5px 15px 5px;
+}
+.third-row h4, span{
+    margin-left: 10px;
+}
+.buy-courses{
+    background-color: #21B573;
+    height: 35px;
+    width: 130px;
+    border-radius: 33px;
+    margin: 8px 0px 5px 10px;
+    justify-content: center;
+}
+.small-icon{
+    height: 50px;
+    width: 50px;
+    margin-top: -10px;
+}
+.icon-area span{
+    margin: 12px 0px 0px -12px;
+    font-size: 15px;
+    color: lightslategray;
+}
+.background-4{
+    background-color: rgb(245, 245, 232);
+}
+.background-4 h3{
+    margin: 10px;
+    padding: 10px;
+}
+.man{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 75px;
+}
+.background-4 p{
+    margin-top: 12px;
+}
+.background-5{
+    background-color: rgb(202, 228, 219);
+    padding: 30px 0px 0px 15px;
+}
+#course{
+    font-weight: 700;
+}
+.background-5 p{
+    margin-top: -10px;
+}
+#millions{
+    padding: 30px 75px 0px 75px;
+}
+#footer-copyright{
+    padding: 40px 0px 10px 0px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
